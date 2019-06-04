@@ -1,0 +1,284 @@
+{"frames": [
+
+{
+	"filename": "bacgkground",
+	"frame": {"x":161,"y":306,"w":144,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":56},
+	"sourceSize": {"w":144,"h":56}
+},
+{
+	"filename": "character/dragon01",
+	"frame": {"x":390,"y":272,"w":46,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":37},
+	"sourceSize": {"w":46,"h":37}
+},
+{
+	"filename": "character/dragon02",
+	"frame": {"x":426,"y":78,"w":43,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":8,"w":43,"h":29},
+	"sourceSize": {"w":46,"h":37}
+},
+{
+	"filename": "credits",
+	"frame": {"x":147,"y":1,"w":136,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":134},
+	"sourceSize": {"w":136,"h":134}
+},
+{
+	"filename": "creditsButton",
+	"frame": {"x":439,"y":312,"w":44,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":16},
+	"sourceSize": {"w":44,"h":16}
+},
+{
+	"filename": "DragonSpear",
+	"frame": {"x":307,"y":386,"w":140,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":17},
+	"sourceSize": {"w":140,"h":17}
+},
+{
+	"filename": "fire",
+	"frame": {"x":438,"y":271,"w":31,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":39},
+	"sourceSize": {"w":31,"h":39}
+},
+{
+	"filename": "gameover",
+	"frame": {"x":391,"y":187,"w":110,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":20},
+	"sourceSize": {"w":110,"h":20}
+},
+{
+	"filename": "getReady",
+	"frame": {"x":391,"y":209,"w":109,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":20},
+	"sourceSize": {"w":109,"h":20}
+},
+{
+	"filename": "hanger",
+	"frame": {"x":307,"y":315,"w":130,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":42},
+	"sourceSize": {"w":130,"h":42}
+},
+{
+	"filename": "icon",
+	"frame": {"x":63,"y":317,"w":96,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":96,"h":94},
+	"sourceSize": {"w":96,"h":96}
+},
+{
+	"filename": "iconNew",
+	"frame": {"x":293,"y":116,"w":96,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":96,"h":93},
+	"sourceSize": {"w":96,"h":96}
+},
+{
+	"filename": "medow",
+	"frame": {"x":161,"y":364,"w":144,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":51},
+	"sourceSize": {"w":144,"h":51}
+},
+{
+	"filename": "menu",
+	"frame": {"x":161,"y":137,"w":130,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":106},
+	"sourceSize": {"w":130,"h":106}
+},
+{
+	"filename": "Numbers",
+	"frame": {"x":307,"y":405,"w":57,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":6},
+	"sourceSize": {"w":57,"h":6}
+},
+{
+	"filename": "okButton",
+	"frame": {"x":439,"y":330,"w":44,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":16},
+	"sourceSize": {"w":44,"h":16}
+},
+{
+	"filename": "orangeGem",
+	"frame": {"x":480,"y":231,"w":22,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":18},
+	"sourceSize": {"w":22,"h":18}
+},
+{
+	"filename": "press",
+	"frame": {"x":391,"y":116,"w":115,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":69},
+	"sourceSize": {"w":115,"h":69}
+},
+{
+	"filename": "purpleGem",
+	"frame": {"x":480,"y":251,"w":22,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":18},
+	"sourceSize": {"w":22,"h":18}
+},
+{
+	"filename": "redGem",
+	"frame": {"x":471,"y":271,"w":22,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":18},
+	"sourceSize": {"w":22,"h":18}
+},
+{
+	"filename": "rock",
+	"frame": {"x":438,"y":231,"w":40,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":38},
+	"sourceSize": {"w":40,"h":38}
+},
+{
+	"filename": "score",
+	"frame": {"x":285,"y":1,"w":139,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":113},
+	"sourceSize": {"w":139,"h":113}
+},
+{
+	"filename": "scoreButton",
+	"frame": {"x":453,"y":348,"w":44,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":16},
+	"sourceSize": {"w":44,"h":16}
+},
+{
+	"filename": "shield",
+	"frame": {"x":307,"y":211,"w":81,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":102},
+	"sourceSize": {"w":81,"h":102}
+},
+{
+	"filename": "Sky",
+	"frame": {"x":1,"y":1,"w":144,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":154},
+	"sourceSize": {"w":144,"h":154}
+},
+{
+	"filename": "smaugGrey",
+	"frame": {"x":390,"y":231,"w":46,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":39},
+	"sourceSize": {"w":46,"h":39}
+},
+{
+	"filename": "spear",
+	"frame": {"x":1,"y":157,"w":29,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":256},
+	"sourceSize": {"w":29,"h":256}
+},
+{
+	"filename": "spearClean",
+	"frame": {"x":32,"y":157,"w":29,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":256},
+	"sourceSize": {"w":29,"h":256}
+},
+{
+	"filename": "startButton",
+	"frame": {"x":453,"y":366,"w":44,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":16},
+	"sourceSize": {"w":44,"h":16}
+},
+{
+	"filename": "sword",
+	"frame": {"x":63,"y":157,"w":47,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":158},
+	"sourceSize": {"w":47,"h":158}
+},
+{
+	"filename": "swordClean",
+	"frame": {"x":112,"y":157,"w":47,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":158},
+	"sourceSize": {"w":47,"h":158}
+},
+{
+	"filename": "tap",
+	"frame": {"x":426,"y":1,"w":58,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":75},
+	"sourceSize": {"w":58,"h":75}
+},
+{
+	"filename": "Town",
+	"frame": {"x":307,"y":359,"w":144,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":25},
+	"sourceSize": {"w":144,"h":25}
+},
+{
+	"filename": "Water-2",
+	"frame": {"x":161,"y":245,"w":144,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":21,"w":144,"h":59},
+	"sourceSize": {"w":144,"h":80}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spriteSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":507,"h":416},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6e84812351a1bf5559babca85502de4a:eb3ce69f6df51f6eba7ed09b39a1d0d9:ea5d22e715ea7a530878e244f6ee1006$"
+}
+}
